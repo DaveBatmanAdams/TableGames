@@ -4,6 +4,9 @@ import javax.swing.*;
 import java.util.*;
 import java.io.*;
 
+//This file uses swing to build the "board" for a game of checkers, ie a grid system of black and white tiles
+//This is the foundation of the checkers game...next will be adding the pieces, rules for movement, etc.
+
 public class CheckersGrid
 {
 	public static void main( String args[])
